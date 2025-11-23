@@ -1,0 +1,9 @@
+notes.txt
+test.ipynb
+test1.ipynb
+.DS_Store
+__pycache__
+test.py
+
+models/*
+data/*
